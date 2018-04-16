@@ -20,9 +20,9 @@ Smart TVs have the following restrictions and challenges:
 
 # Progress
 - [x] Set up initial repo
-- [x] Set up initial views (no data or dummy data)
-- [x] Implement OAuth for Spotify
-- [x] Create simple Spotify Components
-- [x] Create simple Redux store
-- [x] Deploy onto live TV app
-
+- [ ] Set up initial views (no data or dummy data)
+- [ ] Implement OAuth for Spotify
+- [ ] Create simple Spotify Components
+- [ ] Create simple Redux store
+- [ ] Deploy onto live TV app
+- [ ] Add screenshots/gifs demo
